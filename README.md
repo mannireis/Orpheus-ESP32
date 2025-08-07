@@ -19,7 +19,7 @@ A ESP32 micro controller that is quite small and good!!!
 | 13   | 0402CG6R0C500NT     | C1575       | Extended  | 20       | $0.0198        | $0.3967   |
 | 14   | 0402CG1R0C500NT     | C1550       | Extended  | 20       | $0.0218        | $0.4350   |
 | 15   | 0603WAF1002T5E      | C25804      | Basic     | 4        | $0.0036        | $0.0144   |
-|      | **Subtotal (Parts)**|             |           |          |                | $39.9123  |
+|      | **Subtotal (Parts)**|             |           |          |                | $39.9121  |
 | 16   | PCB Fabrication     | -           | Service   | 1        | $2.0880        | $2.0880   |
-| 17   | Assembly/Manufacturing | -        | Service   | 1        | $85.9997       | $85.9997  |
-|      | **Grand Total**     |             |           |          |                | **$128.00** |
+| 17   | Assembly/Manufacturing | -        | Service   | 1        | $13.1599       | $13.1599  |
+|      | **Grand Total**     |             |           |          |                | **$55.16** |
