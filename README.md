@@ -10,7 +10,7 @@ This innovative board was developed by a talented 13-year-old maker, backed by H
 
 ---
 
-## ???? Key Features
+## Key Features
 
 - **MCU:** ESP32-C6 — RISC-V 32-bit single-core processor  
 - **Memory:** 8MB flash storage for firmware and data  
@@ -21,7 +21,7 @@ This innovative board was developed by a talented 13-year-old maker, backed by H
 
 ---
 
-## ???? What Can You Build?
+## What Can You Build?
 
 - Advanced IoT solutions leveraging multiple wireless protocols  
 - Smart home automation devices
@@ -30,7 +30,7 @@ This innovative board was developed by a talented 13-year-old maker, backed by H
 
 ---
 
-## ???? Getting Started
+## Getting Started
 
 1. **Install ESP-IDF:** Follow the official Espressif ESP32-C6 Getting Started Guide.  
 2. **Connect Your Board:** Plug in the Orpheus ESP32 via USB-C.  
@@ -39,7 +39,7 @@ This innovative board was developed by a talented 13-year-old maker, backed by H
 
 ---
 
-## ???? Development Tools
+## Development Tools
 
 - **PCB Design:** EasyEDA  
 - **Firmware Development:** ESP-IDF, PlatformIO, Arduino IDE  
